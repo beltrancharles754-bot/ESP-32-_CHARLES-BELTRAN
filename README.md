@@ -1,7 +1,4 @@
-
-Project Title
- 
-ESP32 IoT Sensor Monitoring System
+ECE_ESP32_PCB_Beltran_EN1B
  
 Project Description
  
