@@ -1,9 +1,17 @@
-ECE_ESP32_PCB_Beltran_EN1B
+ECE_ESP32_PCB_Beltran_IRREG
  
 Project Description
  
 This project uses the ESP32 microcontroller to build a low-power, Wi-Fi-enabled sensor monitoring system. It reads data from various sensors (temperature, humidity, motion, etc.), processes the information locally, and sends it to a cloud platform or local dashboard via Wi-Fi. The system can also receive commands remotely, making it suitable for home automation, environmental monitoring, and IoT prototyping. It demonstrates core embedded systems concepts: digital/analog I/O, wireless communication, and real-time data handling.
 
+*Features
+ESP32 Expansion Capability Provides accessible GPIO headers for sensors, modules, and external devices.
+
+Integrated Power Section Includes onboard voltage regulation and filtering components for reliable operation.
+
+USB Type-C Connectivity Modern power input solution for improved usability and compatibility.
+
+Compact Hardware Design Space-efficient board structure suitable for prototyping and educational projects.
 # PCB_IMAGES/SCREENSHOT 
 * # **PCB_LAYOUT**
   <img width="622" height="863" alt="Image" src="https://github.com/user-attachments/assets/cb5edcca-8ca3-4560-afe3-20e04c0a5550" />
